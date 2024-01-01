@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RestApp</string>
+    <string name="enter_book_category">Enter book category</string>
+    <string name="get_books">Get Books</string>
+    <string name="openpage">Open Page</string>
+    <string name="book_title">Book Title:</string>
+    <string name="category">Category:</string>
+    <string name="number_of_pages">Number of pages:</string>
+    <string name="add">Add</string>
+    <string name="demonstrate_rest_service">Demonstrate Rest Service</string>
+</resources>
